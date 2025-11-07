@@ -1,19 +1,30 @@
-### Hi there, I'm Pavel Lorenz!
+# Pavel Lorenz — StaffEng @ Heureka Group
 
-- 👷‍♂️ I'm currently working as a **Software Engineer** in [@heureka](https://www.heurekadevs.cz/)
-- 🔭 I'm primarly focused on **ReacT/NodeJS** tech stack with **NoSQL** databases
-- 💻 Switched from **Windows** system to **Mac**
-- 🐍 Sometimes mess around **Python**
-- 🌱 I'm currently learning all around **cyber security**, **software architecture** and **microservices**!
-- 😄 Pronouns: He/him
+Pragmatic Architecture
 
-### Experiencies
+I help teams ship **good-enough architectures** that run safely and evolve sanely. 
+Company-wide scope @Heureka: 
 
-- ⚡ .NET tech stack: ASP.NET MVC/WebAPI, WPF, etc., now mostly focus on .NET 5/6
-- 🧐 Heavily focused on relational databases (primarly MSSQL)
-- ⏰ in past I worked in ASP.NET WebForms, UWP, WCF, Winforms
-- 🍓 also tried raspberryPI/dragonboard wt raspbian and Python, WinIoT and UWP or now Raspbian and .NET 6!
-- 💻 worked under windows OS but also using WSL with Debian
-- 🐳 WSL and Docker is one of the most underestimated tools!
-- ❓ and don't forget about another languages and tech-stacks like PHP+Symfony and PostgreSQL database
-- ❕ on frontend I used angularJS, KnockoutJS or just Razor markup engine
+- **strategy** (platform guardrails, high-level architecture) and 
+- **tactics** (short unblockings, patterns, clean hand-off)
+
+Prefer **boring, reliable tech** over shiny complexity. 
+
+- **Pragmatism > perfection**
+- **Impact > buzzwords**
+
+Now
+- Public & internal **APIs** (REST/gRPC), OAuth2/OIDC, versioning & SLAs
+- **Distributed services** with clear contracts, observability, and cost awareness
+- **DX** that makes the right path easy: standards, docs, CI/CD, guardrails
+- Decision-making via RFC/ADR; **good-enough now, extensible tomorrow**
+
+Principles
+- **Simple > perfect** — ship → learn → iterate
+- **Enable, don’t own** — align, unblock, hand back delivery
+- **Own the interface** — contracts, SLAs, idempotence
+- **Prefer boring** — reliability beats shiny
+- **Measure** — p95, error rate, availability, infra cost
+
+`.NET/C# · Go · Node/TypeScript · REST/gRPC · Kafka/RabbitMQ · GCP · Kubernetes · Terraform · OpenAPI/AsyncAPI · DDD · CI/CD · Observability`
+
